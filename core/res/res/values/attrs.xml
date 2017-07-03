@@ -1839,6 +1839,7 @@ i
         <enum name="KEYCODE_SYSTEM_NAVIGATION_DOWN" value="281" />
         <enum name="KEYCODE_SYSTEM_NAVIGATION_LEFT" value="282" />
         <enum name="KEYCODE_SYSTEM_NAVIGATION_RIGHT" value="283" />
+        <enum name="KEYCODE_SMART_KEY" value="284" />
     </attr>
 
     <!-- ***************************************************************** -->
